@@ -1,3 +1,6 @@
+# Introduction
+This repository contains the code of my masters thesis "A Metaheuristic Approach to the Vehicle Routing Problem With Load Dependent Travel Times". The theoretical background of the implementation is documented in the PDF masterthesis.pdf. This README provides some practical hints on how to use the code that is available in this repo. 
+
 # COMPONENTS
 We distribute the code into 3 mayor functionality components:  
   
