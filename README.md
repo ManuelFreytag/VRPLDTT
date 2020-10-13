@@ -1,7 +1,6 @@
-We distribute the code into 3 mayor functionality components:
-
 # COMPONENTS
-
+We distribute the code into 3 mayor functionality components:  
+  
 1) ALNSLDTT implementation (folder: ALNSv2) (C++)
 2) Parameter tuning and benchmarking (folder: CompAnalysis) (Python)
 3) Instance preprocessing, pickling, and result analysis (folder: Notebooks)
@@ -111,6 +110,6 @@ E.g.:
 >> print(sol.value)
 ```
 
-**ANNOTATION**
+**ANNOTATION**  
 All of ALNSData, ALNS and Solution objects are pickleable!
 Most of the solutions of our solution data is a pickled solution object.
