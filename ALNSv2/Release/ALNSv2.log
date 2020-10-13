@@ -1,0 +1,18 @@
+﻿  alns.cpp
+c:\users\manuf\documents\repositories\metaheuristic-vrpldtt\alns\alnsv2\alns.cpp(504): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  preprocessing.cpp
+c:\users\manuf\documents\repositories\metaheuristic-vrpldtt\alns\alnsv2\preprocessing.cpp(132): warning C4554: "&": Überprüfen Sie die Operatorrangfolge auf mögliche Fehler. Verwenden Sie Klammern, um die Rangfolge zu verdeutlichen.
+     Bibliothek "C:\Users\manuf\Documents\Repositories\metaheuristic-vrpldtt\alns\Release\ALNSv2.lib" und Objekt "C:\Users\manuf\Documents\Repositories\metaheuristic-vrpldtt\alns\Release\ALNSv2.exp" werden erstellt.
+  Code wird generiert.
+  7 of 6425 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+module.obj : warning LNK4020: Ein Typeneintrag in "c:\users\manuf\documents\repositories\metaheuristic-vrpldtt\alns\alnsv2\release\vc141.pdb" ist beschädigt; auf einige Symbole und Typen kann vom Debugger möglicherweise nicht zugegriffen werden.
+operator.obj : warning LNK4020: Ein Typeneintrag in "c:\users\manuf\documents\repositories\metaheuristic-vrpldtt\alns\alnsv2\release\vc141.pdb" ist beschädigt; auf einige Symbole und Typen kann vom Debugger möglicherweise nicht zugegriffen werden.
+preprocessing.obj : warning LNK4020: Ein Typeneintrag in "c:\users\manuf\documents\repositories\metaheuristic-vrpldtt\alns\alnsv2\release\vc141.pdb" ist beschädigt; auf einige Symbole und Typen kann vom Debugger möglicherweise nicht zugegriffen werden.
+rand_tools.obj : warning LNK4020: Ein Typeneintrag in "c:\users\manuf\documents\repositories\metaheuristic-vrpldtt\alns\alnsv2\release\vc141.pdb" ist beschädigt; auf einige Symbole und Typen kann vom Debugger möglicherweise nicht zugegriffen werden.
+roulette_wheel.obj : warning LNK4020: Ein Typeneintrag in "c:\users\manuf\documents\repositories\metaheuristic-vrpldtt\alns\alnsv2\release\vc141.pdb" ist beschädigt; auf einige Symbole und Typen kann vom Debugger möglicherweise nicht zugegriffen werden.
+solution.obj : warning LNK4020: Ein Typeneintrag in "c:\users\manuf\documents\repositories\metaheuristic-vrpldtt\alns\alnsv2\release\vc141.pdb" ist beschädigt; auf einige Symbole und Typen kann vom Debugger möglicherweise nicht zugegriffen werden.
+vector_tools.obj : warning LNK4020: Ein Typeneintrag in "c:\users\manuf\documents\repositories\metaheuristic-vrpldtt\alns\alnsv2\release\vc141.pdb" ist beschädigt; auf einige Symbole und Typen kann vom Debugger möglicherweise nicht zugegriffen werden.
+  ALNSv2.vcxproj -> C:\Users\manuf\Documents\Repositories\metaheuristic-vrpldtt\alns\Release\ALNSv2.pyd
